@@ -7,12 +7,12 @@
   const CONFIG = {
     name: 'Whispering Death',
     tagline: 'Quiet until it isn’t.',          // set to '' to hide
-    user: 'mdimrankhanalpha',
+    user: 'uuhjeike',
     repo: 'Whispering-Death',
     branch: 'main',
-    photo: 'https://github.com/mdimrankhanalpha/Whispering-Death/blob/main/1792164327845.jpg',
+    photo: 'https://github.com/uuhjeike/Whispering-Death/blob/main/1792164327845.jpg',
     postFile: 'Post.txt',
-    siteUrl: 'https://mdimrankhanalpha.github.io/Whispering-Death/',
+    siteUrl: 'https://uuhjeike.github.io/Whispering-Death/',
     newestFirst: true,                          // true: top of file = newest post
     avatar: { zoom: 1.65, x: 0.6, y: 0.42 },   // which part of the photo fills the round avatar
     batch: 8,                                   // posts rendered per step while scrolling
